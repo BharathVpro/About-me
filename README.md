@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vakapalli Bharath Kumar. I'm a recent Btech graduate.
 - 👀 I’m interested in Data Science field to analyze the past and understand the present to predict the future.
-- 🌱 I’m currently working on Machine learning AI project.
+- 🌱 I’m currently working on Machine learning AI projects.
 - 💞️ I’m looking to work with organization where I can learn and develop my knowledge for a better growth along with organization.
 - 📫 You can always reach me at bharathkv15899@gmail.com
 
